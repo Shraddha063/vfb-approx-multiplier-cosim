@@ -33,7 +33,7 @@ This project presents a **Hardware-Software Co-Simulation Environment** integrat
 ## 📁 Repository Structure
 
 ```text
-├── approx_multiplier.v         # Verilog RTL Modules (Multiplier & Compressors)
+├── Verilog         # Verilog RTL Modules (Multiplier & Compressors)
 ├── vfb_cosim_pipeline.py       # Python Co-Simulation Pipeline (Icarus Verilog wrapper)
 ├── vfb_hardware_cosim_output.png # Generated simulation results plot
 └── notebooks/
